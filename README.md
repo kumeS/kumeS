@@ -1,16 +1,43 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=kumeS&color=blue)
 
-<!--
-**kumeS/kumeS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Name: Satoshi Kume
+<br>
+Contact: satoshi.kume@a.riken.jp
+<br>
+MyWebsite: [Biography - Satoshi Kume, Ph.D](https://kumes.github.io/skume-Biography/skume-Biography.html))
 
-Here are some ideas to get you started:
+<table>
+    <tr>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumeS&theme=transparent" width="100%">
+    </tr>
+    <tr>
+        <td>
+            <div align="center">
+                <img src="https://github-readme-stats.vercel.app/api?username=kumeS&count_private=true&show_icons=true&theme=transparent" width="100%">
+            </div>
+        </td>
+        <td>
+            <div align="center">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumeS&theme=transparent" width="100%">
+            </div>
+        </td>
+    </tr>
+</table>
+キーワード編集
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
