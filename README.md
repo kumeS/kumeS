@@ -18,7 +18,7 @@ MyWebsite: [Biography - Satoshi Kume, Ph.D](https://kumes.github.io/skume-Biogra
     <tr>
         <td>
             <div align="center">
-                <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumeS&theme=transparent" width="125%">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumeS&theme=transparent" width="150%">
             </div>
         </td>
     </tr>
