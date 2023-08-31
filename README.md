@@ -18,17 +18,11 @@ MyWebsite: [Biography - Satoshi Kume, Ph.D](https://kumes.github.io/skume-Biogra
     <tr>
         <td>
             <div align="center">
-                <img src="https://github-readme-stats.vercel.app/api?username=kumeS&count_private=true&show_icons=true&theme=transparent" width="100%">
-            </div>
-        </td>
-        <td>
-            <div align="center">
-                <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumeS&theme=transparent" width="100%">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumeS&theme=transparent" width="125%">
             </div>
         </td>
     </tr>
 </table>
-キーワード編集
 
 
 
