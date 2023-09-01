@@ -12,7 +12,7 @@ MyWebsite: [Biography - Satoshi Kume, Ph.D](https://kumes.github.io/skume-Biogra
 [BioImageDbs (Bioconductor Experiment Package)](https://bioconductor.org/packages/release/data/experiment/html/BioImageDbs.html), 
 [CRAN/GoogleImage2Array](https://cran.r-project.org/web/packages/GoogleImage2Array/index.html), [CRAN/seasonalityPlot](https://cran.r-project.org/web/packages/seasonalityPlot/index.html) 
 <br>
-[kumeS / chatAI4R](https://github.com/kumeS/chatAI4R)
+[kumeS/chatAI4R](https://github.com/kumeS/chatAI4R), [kumeS/deepRstudio](https://github.com/kumeS/deepRstudio), [kumeS/stableDiffusion4R](https://github.com/kumeS/stableDiffusion4R)
 <br>
 
 <table>
