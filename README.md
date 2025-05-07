@@ -16,8 +16,9 @@ MyWebsite: [Biography - Satoshi Kume, Ph.D](https://kumes.github.io/skume-Biogra
     - [kumeS/deepRstudio](https://github.com/kumeS/deepRstudio)
     - [kumeS/stableDiffusion4R](https://github.com/kumeS/stableDiffusion4R)
 <br>
-- AI Agent Project
-    - [kumeS / aiSlideAgent (Still Japanese)](https://github.com/kumeS/aiSlideAgent)
+<br>
+- AI Agent Project<br>
+    - [kumeS/aiSlideAgent(Japanese)](https://github.com/kumeS/aiSlideAgent)
 <br>
 <br>
 <table>
