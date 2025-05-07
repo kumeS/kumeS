@@ -5,7 +5,7 @@ Name: Satoshi Kume
 <br>
 Contact: satoshi.kume@a.riken.jp
 <br>
-MyWebsite: [Biography - Satoshi Kume, Ph.D](https://kumes.github.io/skume-Biography/skume-Biography.html), [gist / kumeS](https://gist.github.com/kumeS)
+MyWebsite: [Biography - Satoshi Kume, Ph.D](https://kumes.github.io/skume-Biography/skume-Biography.html), [gist / kumeS](https://gist.github.com/kumeS)<br>
 My Blog (Japanese): https://skume.net/
 <br>
 <br>
