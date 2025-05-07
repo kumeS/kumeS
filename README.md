@@ -6,6 +6,7 @@ Name: Satoshi Kume
 Contact: satoshi.kume@a.riken.jp
 <br>
 MyWebsite: [Biography - Satoshi Kume, Ph.D](https://kumes.github.io/skume-Biography/skume-Biography.html), [gist / kumeS](https://gist.github.com/kumeS)
+My Blog (Japanese): https://skume.net/
 <br>
 <br>
 - Bioconductor Project
