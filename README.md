@@ -15,6 +15,11 @@ MyWebsite: [Biography - Satoshi Kume, Ph.D](https://kumes.github.io/skume-Biogra
 <br>
 [kumeS/chatAI4R](https://github.com/kumeS/chatAI4R), [kumeS/deepRstudio](https://github.com/kumeS/deepRstudio), [kumeS/stableDiffusion4R](https://github.com/kumeS/stableDiffusion4R)
 <br>
+<br>
+- AI Agent Project
+    - [kumeS / aiSlideAgent (Still Japanese)](https://github.com/kumeS/aiSlideAgent)
+<br>
+<br>
 <table>
     <tr>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumeS&theme=transparent" width="100%">
