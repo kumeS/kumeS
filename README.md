@@ -20,6 +20,7 @@ My Blog (Japanese): https://skume.net/
 - AI Agent Project<br>
     - [kumeS/aiSlideAgent (Currently Japanese only)](https://github.com/kumeS/aiSlideAgent)
 <br>
+- [Nurumayu Data Lab](https://github.com/kumeS/nurumayudatalab)
 <br>
 <table>
     <tr>
