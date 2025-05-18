@@ -19,8 +19,9 @@ My Blog (Japanese): https://skume.net/
     - [kumeS/stableDiffusion4R](https://github.com/kumeS/stableDiffusion4R)
 - AI Agent Project<br>
     - [kumeS/aiSlideAgent (Currently Japanese only)](https://github.com/kumeS/aiSlideAgent)
-<br>
-- [Nurumayu Data Lab](https://github.com/kumeS/nurumayudatalab)
+- Sites
+    - [Nurumayu Data Lab repo](https://github.com/kumeS/nurumayudatalab)
+    - [mokumoku repo](https://github.com/kumeS/mokumoku)
 <br>
 <table>
     <tr>
