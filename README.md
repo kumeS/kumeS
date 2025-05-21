@@ -22,7 +22,7 @@ My Blog (Japanese): https://skume.net/
 - iPhone App Project<br>
     - [iappshdv](https://github.com/kumeS/iappshdv)
 - Sites
-    - [Nurumayu Data Lab repo](https://github.com/kumeS/nurumayudatalab) / [Nurumayu Data Lab site](https://kumes.github.io/nurumayudatalab/)
+    - [Nurumayu Data Lab repo](https://github.com/kumeS/nurumayudatalab) / [Nurumayu Data Lab site](https://nurumayudatalab.com)
     - [mokumoku repo](https://github.com/kumeS/mokumoku) / [mokumoku site](https://kumes.github.io/mokumoku/)
 <br>
 <table>
