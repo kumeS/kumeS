@@ -24,6 +24,7 @@ My Blog (Japanese): https://skume.net/
 - Sites
     - [Nurumayu Data Lab repo](https://github.com/kumeS/nurumayudatalab) / [Nurumayu Data Lab site](https://nurumayudatalab.com)
     - [mokumoku repo](https://github.com/kumeS/mokumoku) / [mokumoku site](https://kumes.github.io/mokumoku/)
+    - [AIKW](https://github.com/aiknowledgeworks/aikw.hp)
 <br>
 <table>
     <tr>
