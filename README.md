@@ -21,8 +21,10 @@ My Blog (Japanese): https://skume.net/
     - [kumeS/aiSlideAgent (Currently Japanese only)](https://github.com/kumeS/aiSlideAgent)
 - iPhone App Project<br>
     - [iappshdv](https://github.com/kumeS/iappshdv)
-- Sites
+- Nurumayu Project
     - [Nurumayu Data Lab repo](https://github.com/kumeS/nurumayudatalab) / [Nurumayu Data Lab site](https://nurumayudatalab.com)
+    - [Nurumayu Devtools](https://github.com/kumeS/nurumayu-devtools)
+- Sites
     - [mokumoku repo](https://github.com/kumeS/mokumoku) / [mokumoku site](https://kumes.github.io/mokumoku/)
     - [AIKW](https://github.com/aiknowledgeworks/aikw.hp)
 <br>
