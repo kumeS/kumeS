@@ -19,6 +19,7 @@ My Blog (Japanese): https://skume.net/
     - [kumeS/stableDiffusion4R](https://github.com/kumeS/stableDiffusion4R)
 - AI Agent Project<br>
     - [kumeS/aiSlideAgent (Currently Japanese only)](https://github.com/kumeS/aiSlideAgent)
+    - [kumeS/image-conversion-tracking](https://github.com/kumeS/image-conversion-tracking)
 - iPhone App Project<br>
     - [iappshdv](https://github.com/kumeS/iappshdv)
 - Nurumayu Project
